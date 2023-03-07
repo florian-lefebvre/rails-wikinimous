@@ -67,3 +67,6 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# https://github.com/faker-ruby/faker
+gem "faker"
